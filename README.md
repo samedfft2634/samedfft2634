@@ -32,11 +32,16 @@
 
 <br clear="both">
 
+[![GitHub Streak](https://github-readme-streak-stats-opal-gamma.vercel.app?user=samedfft2634&theme=submarine-flowers&hide_border=true&border_radius=30&card_width=1000)](https://git.io/streak-stats)
 
 
-
-⚡ Fun fact :) <br>
+⚡ Fun facts :) <br>
 <img align="center" width="30%" src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif">
+![stop using i](https://github.com/samedfft2634/samedfft2634/assets/100915606/9a519437-f40b-45d3-8f32-a72b7c217bda)
+<img width="22%" src="https://media.tenor.com/fojWqg1S0DIAAAAd/downsign-qr-code.gif">
+
+
+
 
 ###
 
