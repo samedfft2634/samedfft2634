@@ -29,9 +29,7 @@
 
 <br clear="both">
 
-## Watch snake
-![snake gif](https://github.com/samedfft2634/samedfft2634/blob/output/github-contribution-grid-snake.svg)
-<br>
+
 
 
 
@@ -39,7 +37,8 @@
 <img align="center" width="30%" src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif">
 
 ###
-
+## Watch snake
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="SnakeEating" loading="lazy" width="800" height="224" data-animated="true" id="animated-0" class="ff-image">
 
 
 
