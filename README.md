@@ -29,10 +29,14 @@
 
 <br clear="both">
 
+## Watch snake
+![snake gif](https://github.com/samedfft2634/samedfft2634/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+
+
 ⚡ Fun fact :) <br>
 <img align="center" width="30%" src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif">
-
-
 
 ###
 
