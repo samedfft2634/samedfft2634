@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samed Fent</h1>
 <h3 align="center">👨🏽‍💻 A passionate Full Stack Developer from Turkey.&zwj;💻 </h3>
 
+
+![gitartwork](gitartwork.svg)
+
 <img align="right" alt="dino" width="400px" src="https://user-images.githubusercontent.com/100915606/272476423-89cb4268-c162-4969-9b8e-72fe584f6506.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samedfft2634&label=Profile%20views&color=0e75b6&style=flat" alt="samedfft2634" /> </p>
@@ -28,7 +31,6 @@
 </div>
 
 <br clear="both">
-
 
 
 
