@@ -40,5 +40,5 @@
 
 ###
 
-![snake animation](https://github.com/samedfft2634/samedfft2634/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/samedfft2634/samedfft2634/blob/output/github-contribution-grid-snake.svg)
 
