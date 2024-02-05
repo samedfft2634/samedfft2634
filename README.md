@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samed Fent</h1>
 <h3 align="center">👨🏽‍💻 A passionate Full Stack Developer from Turkey.&zwj;💻 </h3>
 
+<!--Git Art Work Samed F text -->
+<!-- ![gitartwork](gitartwork.svg) -->
 
-![gitartwork](gitartwork.svg)
+Frontend Development :
+HTML5 / CSS3 / JS / React / BootStrap / SASS / Material UI/ Tailwind CSS  / Redux,ReduxToolkit / RestAPI / Postman
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
