@@ -4,9 +4,10 @@
 <!--Git Art Work Samed F text -->
 <!-- ![gitartwork](gitartwork.svg) -->
 
-Frontend Development :
+<h3>Frontend Development :</h3>  
 HTML5 / CSS3 / JS / React / BootStrap / SASS / Material UI/ Tailwind CSS  / Redux,ReduxToolkit / RestAPI / Postman
-
+<h3>Others :</h3> 
+Git / GitHub / Linux
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
